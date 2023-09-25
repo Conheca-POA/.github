@@ -54,9 +54,3 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Conheca-POA/Conheca-POA/output/snake.svg" alt="Snake animation" />
-
-###
