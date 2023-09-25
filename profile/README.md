@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://github.com/Conheca-POA/.github/blob/B1.0.0/profile/content/banner.png?raw=true" style="height: auto;"  />
+  <img height="auto" src="https://github.com/Conheca-POA/.github/blob/B1.0.0/profile/content/banner.png?raw=true" style="height: auto !important;"  />
 </div>
 
 ###
